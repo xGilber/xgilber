@@ -96,9 +96,5 @@ I hold a degree in Systems Analysis and Development, with a postgraduate special
 * [Email](mailto:gil-ber-90@hotmail.com) 
 * [LinkedIn](https://www.linkedin.com/in/gilberthalves)
 
-## Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgilber&show_icons=true&theme=dracula)
-
 Let's Connect? 🚀
 
